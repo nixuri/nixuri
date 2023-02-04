@@ -1,16 +1,40 @@
 ### Hi there 👋
 
-<!--
-**nixuri/nixuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on tehran stock exchange co-shareholder network
+- 🌱 I’m currently Master student of [University of Tehran](https://ut.ac.ir/en)
+- 💬 I'm in love with Artificial Intelligence!
+- 📫 How to reach me: alireza.nilgaran@gmail.com
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programming Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+
+## Version Control
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+## ML/DL
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+## Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## GitHub Stats
+<div>
+  <img width="48%" height="150vh" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nixuri&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nixuri" />
+  <img width="48%" height="150vh"  src="https://github-readme-streak-stats.herokuapp.com/?user=nixuri&theme=tokyonight" alt="nixuri" />
+</div>
+
+<br>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nixuri&show_icons=true&theme=tokyonight&count_private=true&locale=en&layout=compact" alt="Paris" style="display: block; margin-left: auto; margin-right: auto; ">
+</p>
