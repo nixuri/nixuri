@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on tehran stock exchange co-shareholder network
 - 🌱 I’m currently Master student of [University of Tehran](https://ut.ac.ir/en)
-- 💬 I'm in love with Artificial Intelligence!
 - 📫 How to reach me: alireza.nilgaran@gmail.com
 
 
