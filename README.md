@@ -27,4 +27,13 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## GitHub Stats
-![Nixuri' github stats](https://github-readme-stats.vercel.app/api?username=nixuri&show_icons=true&hide_border=true)
+<div>
+  <img width="48%" height="150vh" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nixuri&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nixuri" />
+  <img width="48%" height="150vh"  src="https://github-readme-streak-stats.herokuapp.com/?user=nixuri&theme=tokyonight" alt="nixuri" />
+</div>
+
+<br>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nixuri&show_icons=true&theme=tokyonight&count_private=true&locale=en&layout=compact" alt="Paris" style="display: block; margin-left: auto; margin-right: auto; ">
+</p>
