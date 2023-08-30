@@ -1,4 +1,4 @@
-Hi 👋 My name is Alireza Nilgaran
+Hello! I'm Alireza Nilgaran.
 =================================
 
 Data Scientist
