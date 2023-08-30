@@ -4,9 +4,9 @@ Hi 👋 My name is Alireza Nilgaran
 Data Scientist
 --------------
 * 🌱 I’m currently Master student of [University of Tehran](https://ut.ac.ir/en)
-* 🌍  I'm based in Tehran
 * ✉️  You can contact me at [alireza.nilgaran@gmail.com](mailto:alireza.nilgaran@gmail.com)
 * 🚀  I'm currently working on [tehran stock exchange co-shareholder network analysis](http://ut.ac.ir)
+* 🌍  I'm based in Tehran
 
 ### Skills
 
